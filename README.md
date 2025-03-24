@@ -1,6 +1,6 @@
 Download and Untar the file "nvidia_llm.tar"
 
-You will find following folders/sections of the workshop notebooks
+You will find following folders/sections of the workshop notebooks:
 
 
 dli/1-Intro-to-Prompting
